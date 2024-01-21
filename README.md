@@ -27,7 +27,7 @@ To get started with Blog App, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone git@github.com:anilpiparaiya/AcadEaze.git
+   git clone git@github.com:tarunkatchh/AcadEaze.git
    ```
 
 2. Navigate to the project folder:
@@ -56,7 +56,7 @@ We welcome contributions to improve and expand NoteTakingApp! If you have sugges
 
 2. Clone this repository to your local machine:
    ```bash
-   git clone git@github.com:anilpiparaiya/AcadEaze.git
+   git clone git@github.com:tarunkatchh/AcadEaze.git
    ```
 
 3. Navigate to the project folder:
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [anilkumarpiparaiya@gmail.com](mailto:anilkumarpiparaiya@gmail.com). Enjoy your journey to a better and more informed lifestyle!
+Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [tarunkatchh.mb@gmail.com](mailto:tarunkatchh.mb@gmail.com). Enjoy your journey to a better and more informed lifestyle!
 
 
 
